@@ -1,5 +1,9 @@
 <!-- PROJECT_NAME -->
 
+<p align="right">
+  <a href="https://github.com/nashobabrook/ai-diary/blob/main/README_CN.md">中文</a>
+</p>
+
 <p align="center">
   <img src="docs/images/logo.png" alt="编年 Logo" width="200"/>
 </p>
