@@ -1,0 +1,14 @@
+{
+  "name": "ai-diary",
+  "version": "1.0.0",
+  "description": "通过 AI 对话引导，记录每日生活",
+  "model": "",
+  "provider": "",
+  "workspace": "~/ai-diary",
+  "channels": [],
+  "heartbeat": {
+    "enabled": false,
+    "time": "21:00",
+    "prompt": "今天有什么有趣的事情想分享吗？"
+  }
+}
